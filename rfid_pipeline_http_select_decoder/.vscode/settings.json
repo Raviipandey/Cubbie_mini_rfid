@@ -1,0 +1,11 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPath": "/home/qdnet/esp/v5.2.3/esp-idf",
+  "idf.toolsPath": "/home/qdnet/.espressif",
+  "idf.pythonInstallPath": "/usr/bin/python3",
+  "idf.flashType": "UART",
+  "idf.port": "/dev/ttyS14",
+  "files.associations": {
+    "opus_decoder.h": "c"
+  }
+}
